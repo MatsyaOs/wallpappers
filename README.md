@@ -1,6 +1,6 @@
 # CutefishOS Wallpaper
 
-CutefishOS's system wallpaper.
+MatsyaOS's system wallpaper.
 
 ## License
 
