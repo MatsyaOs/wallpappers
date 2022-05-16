@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 project(unsplash-wallpapers)
 
 set(BACKGROUNDS
+        default.png
 	1.png
 	2.png
 	3.png
